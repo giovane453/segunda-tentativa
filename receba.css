@@ -1,5 +1,7 @@
-body{
-    background-color: rgb(255, 255, 255);
+body{                          
+    background-color: rgb(126, 255, 154);
+    margin: 0;
+    padding: 10;
 }
 .campo{
 color: rgb(0, 0, 0);
