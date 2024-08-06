@@ -9,3 +9,70 @@ color: rgb(0, 0, 0);
 .okk{
 color:rgb(0, 0, 0);
 }
+.formulário {
+    text-align: center;
+    border: 2px solid rgb(126, 255, 154);
+    display: block;
+    background-color: rgb(126, 255, 154);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: rgb(126, 255, 154);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px 0;
+}
+
+.especie {
+    font-size: large;
+
+
+}
+
+h1 {
+    font-size: 30;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+h3 {
+    font-size: 60;
+
+
+}
+
+h2 {
+    text-align: center;
+
+
+}
+
