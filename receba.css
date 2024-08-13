@@ -1,19 +1,18 @@
 body{                          
-    background-color: rgb(126, 255, 154);
+    background-image:url("https://c.wallhere.com/photos/17/0c/Minecraft_night_moon_rays_Sky_Temple_stars_clouds_light_blue-1926749.jpg!d");   
     margin: 0;
+  background-size: 100%;
     padding: 10;
 }
 .campo{
-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
 }
 .okk{
-color:rgb(0, 0, 0);
+color:rgb(255, 255, 255);
 }
 .formulário {
     text-align: center;
-    border: 2px solid rgb(126, 255, 154);
     display: block;
-    background-color: rgb(126, 255, 154);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(0, 0, 0);
     margin: 20px;
@@ -45,7 +44,6 @@ section {
 }
 
 footer {
-    background-color: rgb(126, 255, 154);
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 10px 0;
@@ -80,3 +78,10 @@ nav{
     margin-right: 42%;
 }
 
+.fome {
+    color: aliceblue;
+}
+
+.justica{
+    color: aliceblue;
+}
