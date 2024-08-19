@@ -14,7 +14,7 @@ color:rgb(255, 255, 255);
     text-align: center;
     display: block;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     margin: 20px;
 
 }
@@ -44,7 +44,7 @@ section {
 }
 
 footer {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px 0;
 }
@@ -83,5 +83,17 @@ nav{
 }
 
 .justica{
+    color: aliceblue;
+}
+.brr {
+    color: aliceblue;
+}
+.Compromisso {
+    color: aliceblue;
+}
+.Cristiano {
+    color: aliceblue;
+}
+.james {
     color: aliceblue;
 }
